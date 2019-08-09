@@ -1,3 +1,11 @@
+Configure Your Enviornment for Jenkins: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ci_jenkins_config_env.htm
+
+Auth using JWT Based Flow: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_jwt_flow.htm?search_text=Self-signed#sfdx_dev_auth_jwt_flow
+
+Create Self-Signed Certificates: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_key_and_cert.htm?search_text=Self-signed
+
+Create a Connected App: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_auth_connected_app.htm?search_text=Self-signed
+
 # DreamHouse Aura Sample Application
 
 > IMPORTANT: This is the Aura version of the DreamHouse sample application. If you are looking for the new Lightning Web Components version, click [here](https://github.com/dreamhouseapp/dreamhouse-lwc).
